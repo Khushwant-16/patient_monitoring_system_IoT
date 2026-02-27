@@ -1,6 +1,6 @@
 # 🏥 Remote Patient Health Monitoring System (RPHMS)
 
-> **Status:** 🚧 *Actively under development*  
+> **Status:**  *Actively under development*  
 Core functionalities for data acquisition and ML inference are operational. Further optimization for **sensor fusion** and **mobile integration** is ongoing.
 
 ---
